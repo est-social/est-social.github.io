@@ -3,6 +3,7 @@ title: Reeglid
 nav_order: 99
 has_children: true
 layout: default
+has_toc: false
 ---
 
 Üheskoos loome lugupidava ja mõistva keskkonna, kus kõik saavad oma erinevustest hoolimata vabalt suhelda:
