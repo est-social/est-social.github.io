@@ -7,7 +7,7 @@ layout: default
 
 ### Üheskoos loome lugupidava ja mõistva keskkonna, kus kõik saavad oma erinevustest hoolimata vabalt suhelda.
 
-Siia tuleb selgitus reeglite eesmärgi kohta ja edasi punkti alla veidi pikem seletus.
+Siia tuleb reeglite eesmärgi lahtikirjutus ja edasi iga punkti alla veidi pikem seletus.
 
 ### 1. Ära solva, kiusa, alanda, doksi, jälita, spämmi ega tüüta reklaami või propagandaga!
 
