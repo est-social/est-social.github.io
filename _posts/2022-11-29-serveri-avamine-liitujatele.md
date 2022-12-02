@@ -28,4 +28,4 @@ Järgmisteks plaanideks on luua MTÜ, kui ületatakse tuhande kasutaja piir, ja 
 
 * [Tutvustusvideo](https://et.wikipedia.org/wiki/Fail:What_is_Mastodon.webm)
 * [Vikipeedias](https://et.wikipedia.org/wiki/Mastodon_(suhtlusvõrgustik))
-* [Mastodon koduleht](https://joinmastodon.org/)
+* [Mastodoni koduleht](https://joinmastodon.org/)
