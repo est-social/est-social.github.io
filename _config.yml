@@ -2,7 +2,47 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://est-social.github.io
+
+lang: et
+locale: et_EE
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Materjalid GitHubis: https://github.com/est-social/est-social.github.io
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  posts:
+    permalink: "/:collection/:path/"
+    output: true
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Juhendid
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+    posts:
+      name: Uudised
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
