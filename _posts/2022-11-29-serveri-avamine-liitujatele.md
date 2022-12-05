@@ -3,6 +3,7 @@ title: "Kogukondliku sotsiaalmeedia server est.social on avatud"
 permalink: /tere-maailm/
 layout: post
 author: est.social
+image: "/images/header_textlogo.jpeg"
 ---
 
 __Täna avati kõigile Eesti kasutajale mõeldud kogukondliku sotsiaalmeedia server [est.social](https://est.social). Serveri haldajad soovivad pakkuda rahulikumat, rõõmsamat ja tervislikumat alternatiivi probleemides vaevlevatele kommertsvõrgustikele nagu Facebook ja Twitter. Lahendusi nähakse kogukonna kaasamises sisu modereerimisse ja lubatakse kasutajale kontrolli oma infovoo üle.__
@@ -13,7 +14,7 @@ Projekti algataja, Tartu Ülikooli infovastupidavuse nooremteaduri [Diana Poudel
 
 Internet Society Estonia MTÜ juhatuse liikme [Märt Põdra](https://est.social/@tramm) hinnangul ei jää kogukondlik sotsiaalmeedia tehniliselt alla kommertsvõrgustikele, kuid vähene reklaam ja võimaluste rohkus ajavad inimesed alternatiivi otsimisel segadusse. “Seetõttu otsustasimegi luua üldkasutatava serveri kõigile kohalikele kasutajatele, kus ei peaks liiga palju nuputama ja kõik töötaks ootuspäraselt esimesest hetkest,” selgitab Põder ja lisab, et aluseks võetud Mastodoni võrgustik on ülemaailme avatud standard ja sellega on eri riikides liitunud juba üle 7 miljoni kasutaja. “Iga Mastodoni server on iseseisev, kuid vahetab infot teiste omasugustega ning nii moodustub serverite föderatsioon ehk födiversum, kus kasutajad võivad eri serverite vahel üksteist jälgida, kontosid liigutada ja tegelikult on see peaaegu piiritu võimaluste maa, mis on alles oma arengu alguses,” kinnitab Põder.
 
-Järgmisteks plaanideks on luua MTÜ, kui ületatakse tuhande kasutaja piir, ja uuritakse koostöövõimalusi, et kasutajad saaks kontosid soovi korral autentida e-riigi vahendite abil.
+Järgmisteks plaanideks on luua MTÜ, kui kasutajate arv ületab tuhande piiri, ühtlasi uuritakse koostöövõimalusi, et kasutajad saaks kontosid soovi korral autentida e-riigi vahendite abil.
 
 ## Est.social serverist
 
