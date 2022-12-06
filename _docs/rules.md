@@ -1,5 +1,5 @@
 ---
-title: in English
+title: Rules (in English)
 parent: Reeglid
 nav_order: 999
 layout: default
@@ -7,7 +7,7 @@ layout: default
 
 Together we create a respectful and approving community, where everybody can communicate freely despite their differences:
 
-1. Refrain from doxxing, harrassment, humiliation, stalking, spämming and annoying with ads or propaganda.
+1. Refrain from doxxing, harrassment, humiliation, stalking, spamming and annoying with ads or propaganda.
 2. Refrain from racism, sexism, homophobia and transphobia.
 3. Refrain from justifying violent and extremist ideologies or their crimes.
 4. Use mostly Estonian here, while posting specify a language.
