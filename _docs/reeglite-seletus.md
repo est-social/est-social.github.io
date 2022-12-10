@@ -52,7 +52,7 @@ Moderaatorid arvestavad selle reegli rikkumise tuvastamisel kasutaja motivatsioo
 
 Neid tegevusi ei ole võimalik ammendavalt defineerida, kuid baaskriteeriumiks hindamisel on sihipärasus, mille esinemine koos hoolimatuse või pahausksusega on kombinatsioon, mis päris kindlasti tagab moderaatorite kõrgendatud tähelepanu. Sarnase nimekirja soovimatust käitumisest netisuhtluses leiad koos selgitustega nt [Wikimedia üldisest käitumisjuhisest](https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/et#3_%E2%80%93_Sobimatu_k%C3%A4itumine).
 
-### Mõnede nähtuste selgitused
+### Mõned selgitused
 
 Doksimine on isikuandmete ilma loata kogumine ja avalikustamine sooviga seda isikut häirida või kahjustada, halvemal juhul kaasneb sellega ka üleskutse isiku vastu midagi ette võtta. Selline tegevus on siin keelatud, mh on keelatud pseudonüümi taga peituva isiku identiteedi paljastamine, kui ta pole seda ise oma profiilis või muul selgelt viisil avaldanud.
 
@@ -128,6 +128,8 @@ Meie suhtluse iseloomu määrab sageli üldine suhtluskultuur ja see, kuidas suh
 
 Tahame, et siinne keskkond pakuks tõepoolest eestikeelsele kasutajale kõige lihtsamat viisi liituda Mastodoni võrgustikuga ja proovida järgi selle võimalusi. Selleks paneme kõigile hingele, et suhtuksite eriti toetavalt ja mõistvalt uutesse kasutajatesse ning jätaksite neile ruumi uue keskkonnaga harjumiseks. Kasutage nende juhendamisel abivalmis kaasteelise tooni ja hoiduge võtmast kõiketeadva omaniku rolli, kes räägib uutele tulijatele, kuidas siin asjad on ja olema peavad.
 
-Est.social on osa ülemaailmsest Mastodoni võrgustikust, mille kultuur, modereerimistavad ja juhtimismehhanismid on alles kujunemisel. See võrgustik pole kellegi oma, vaid see kuulub meile kõigile ning on osa födereeritud serverite laiemast võrgustikust ehk Födiversumist.
+Est.social on osa [ülemaailmsest Mastodoni võrgustikust](https://et.wikipedia.org/wiki/Mastodon_(suhtlusv%C3%B5rgustik)), mille kultuur, modereerimistavad ja juhtimismehhanismid on alles kujunemisel. See võrgustik pole kellegi oma, vaid see kuulub meile kõigile ning on osa födereeritud serverite laiemast võrgustikust ehk [Födiversumist](https://et.wikipedia.org/wiki/F%C3%B6diversum).
 
 Meie soov on pakkuda kõigile rahulikumat, rõõmsamat ja tervislikumat alternatiivi ärilisel alusel töötavatele sotsiaalvõrgustikele -- teeme nii, et meie ühine rännak selles uues maailmas on meile kõigile tore ja meeldejääv kogemus!
+
+_Avaldatud: 10. detsember 2022_
