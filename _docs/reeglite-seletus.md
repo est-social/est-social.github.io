@@ -38,9 +38,9 @@ Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 * [Perearsti nõuandeliin](https://www.1220.ee/) telefonil 1220 või +372 6346630 (8-22, nädalavahetusl 24h)
 * [Vaimse tervise esmaabi](https://esmaabi.peaasi.ee/) ja [nõustamine](https://noustamine.peaasi.ee/) (veebis)
 
-Kui kahtlustad, et inimesel võib olla abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#6-täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
+Kui kahtlustad, et inimesel võib olla vaja abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#6-täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
 
-Ent kui peame meeles käituda üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jm instantside sekkumise järele loodetavasti pigem vähene!
+Ent kui peame alati meeles käituda üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jm väliste instantside sekkumise järele loodetavasti pigem vähene!
 
 ## 1. Ära solva, kiusa, alanda, doksi, jälita, spämmi ega tüüta reklaami või propagandaga!
 
@@ -50,13 +50,13 @@ Ka pole siin toodud ammendav loetelu keelatud tegevustest, vaid pigem nimekiri n
 
 Moderaatorid arvestavad selle reegli rikkumise tuvastamisel kasutaja motivatsiooni, st kui rikkumine paistab teadlik, sihipärane ja korduv, siis reageeritakse sellele kohe täie tõsidusega. Kui paistab usutav, et eksiti teadmatusest, hooletusest ja ei paista püsivat käitumismustrit, siis selgitatakse kasutajale tema eksimust ja vajadusel lisatakse süsteemi hoiatus.
 
-Neid tegevusi ei ole võimalik ammendavalt defineerida, kuid baaskriteeriumiks hindamisel on sihipärasus, mille esinemine koos hoolimatuse või pahausksusega on kombinatsioon, mis päris kindlasti tagab moderaatorite kõrgendatud tähelepanu. Sarnase nimekirja soovimatutest tegevustest leiad näiteks [Wikimedia üldisest käitumisjuhisest](https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/et#3_%E2%80%93_Sobimatu_k%C3%A4itumine).
+Neid tegevusi ei ole võimalik ammendavalt defineerida, kuid baaskriteeriumiks hindamisel on sihipärasus, mille esinemine koos hoolimatuse või pahausksusega on kombinatsioon, mis päris kindlasti tagab moderaatorite kõrgendatud tähelepanu. Sarnase nimekirja soovimatust käitumisest netisuhtluses leiad koos selgitustega nt [Wikimedia üldisest käitumisjuhisest](https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/et#3_%E2%80%93_Sobimatu_k%C3%A4itumine).
 
-### Konkreetsemad selgitused
+### Mõnede nähtuste selgitused
 
 Doksimine on isikuandmete ilma loata kogumine ja avalikustamine sooviga seda isikut häirida või kahjustada, halvemal juhul kaasneb sellega ka üleskutse isiku vastu midagi ette võtta. Selline tegevus on siin keelatud, mh on keelatud pseudonüümi taga peituva isiku identiteedi paljastamine, kui ta pole seda ise oma profiilis või muul selgelt viisil avaldanud.
 
-Jälitamine on teise kasutaja postituste ja tegevuse vastu ülemäärase huvi üles näitamine, enamasti püsivalt kriitiliste vm viisil ühelaadsete ja silmatorkavate reaktsioonide näol, eriti kui üks pool on andnud märku, et ta ei soovi sellist tähelepanu. Tüüpiliselt leiab jälitamine aset ideoloogiliste oponentide puhul, kui püütakse neil sabas käies näidata, et nad kas eksivad, moraalselt ebajärjekindlad vm muul viisil laiduväärsed. Vahel on selline kriitiline jälitamine segatud imetluse või kiindumusega.
+Jälitamine on teise kasutaja postituste ja tegevuse vastu ülemäärase huvi üles näitamine, enamasti püsivalt kriitiliste vm viisil ühelaadsete ja silmatorkavate reaktsioonide näol, eriti kui üks pool on andnud märku, et ta ei soovi sellist tähelepanu. Tüüpiliselt leiab jälitamine aset ideoloogiliste oponentide puhul, kui püütakse neil sabas käies näidata, et nad kas eksivad, on moraalselt ebajärjekindlad vm muul viisil laiduväärsed. Vahel on selline jälitamine segatud imetluse või kiindumusega.
 
 Reklaam ja propaganda on meie küllastunud inforuumi igapäevane osa. Ka siin ei ole keelatud kaubanduslikud teadaanded ega püüdlused eri maailmavaadete edendamiseks, kuid oluline on pidada silmas, et see ei muutuks tüütuks. Kui muutuvad sagedaseks postitused, mille peamine eesmärk on laiale sihtrühmale midagi reklaamida või propageerida, siis tuleks need märgistada sildiga, mis võimaldab kasutajatel filtri abil need oma infovoost eemaldada (nt `#ad` või `#reklaam` ja `#pol`, `#politics` ja `#poliitika`).
 
@@ -68,15 +68,15 @@ Täiesti keelatud on rassistlike või seksistlike eelarvamuste ja homofoobsete v
 
 Teoreetilised arutelud nende keeruliste ühiskondlike nähtuste üle ei ole keelatud, kuid see eeldab delikaatsust ja teadlikkust. Kui sa pole veendunud, et tead neist teemadest piisavalt ja suudad arutelu lugupidavalt juhtida, siis parem ära hakka proovima.
 
-### Definitsioonid
+### Selgitavad määratlused
 
-Rassism on eelarvamus, et üksikisiku kirjeldamisel või suhtumise kujundamisel temasse on rahvus, päritolu või teatud välised tunnused tähenduslikud omadused.
+[Rassism](https://feministeerium.ee/mis-on-rassism/) on eelarvamus, et üksikisiku kirjeldamisel või suhtumise kujundamisel temasse on rahvus, päritolu või teatud välised tunnused tähenduslikud omadused.
 
-Seksism on eelarvamus, et sugu või soorollid on üksikisiku kirjeldamisel või suhtumise kujundamisel temasse tähenduslikud omadused.
+[Seksism](https://feministeerium.ee/nadala-sona-seksism/) on eelarvamus, et sugu või soorollid on üksikisiku kirjeldamisel või suhtumise kujundamisel temasse tähenduslikud omadused.
 
-Homofoobia on umbusaldav või vaenulik hoiak homoseksuaalsuse kui sättumuse suhtes.
+[Homofoobia](https://et.wikipedia.org/wiki/Homofoobia) on umbusaldav või vaenulik hoiak homoseksuaalsuse kui sättumuse suhtes.
 
-Transfoobia on umbusaldav või vaenulik hoiak transseksuaalsuse kui soolise enesemääratluse suhtes.
+[Transfoobia](https://feministeerium.ee/sonastik-transfoobia-cis-seksism-ja-susteemne-cis-privilegeeritus/) on umbusaldav või vaenulik hoiak soolise enesemääratluse suhtes, mis erineb eeldatavast sünnipärasest soost.
 
 ## 3. Ära õigusta vägivaldseid või äärmuslikke ideoloogiaid ega nende kuritegusid!
 
