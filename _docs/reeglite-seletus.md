@@ -5,9 +5,9 @@ nav_order: 99
 layout: default
 ---
 
-[Est.social](https://est.social) on üldotstarbeline kogukondliku sotsiaalmeedia server eelkõige eestikeelsele kasutajale. Siin on esindatud läbilõige meie ühiskonnast. Omavaheliste erinevuste ja neid väljendavate arutelude mahutamiseks ühte serverisse peame suutma erinevuste olemasoluga leppida.
+[Est.social](https://est.social) on üldotstarbeline kogukondliku sotsiaalmeedia server eelkõige eestikeelsele kasutajale. Siin on esindatud läbilõige meie ühiskonnast. Omavaheliste erinevuste ja neid väljendavate arutelude mahutamiseks ühte serverisse peame suutma erinevuste olemasoluga leppida. Selle juures aitavad meil oma tegevust paremini jälgida ja suunata ühiselt kokkulepitud suhtlusreeglid.
 
-Selle juures aitavad meil oma tegevust paremini jälgida ja suunata ühiselt kokkulepitud suhtlusreeglid.
+Üheskoos loome lugupidava ja mõistva keskkonna, kus kõik saavad oma erinevustest hoolimata vabalt suhelda:
 
 <details open markdown="block">
   <summary>
