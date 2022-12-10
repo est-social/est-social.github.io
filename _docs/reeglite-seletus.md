@@ -5,6 +5,10 @@ nav_order: 99
 layout: default
 ---
 
+[Est.social](https://est.social) on üldotstarbeline kogukondliku sotsiaalmeedia server eelkõige eestikeelsele kasutajale. Siin on esindatud läbilõige meie ühiskonnast. Omavaheliste erinevuste ja neid väljendavate arutelude mahutamiseks ühte serverisse peame suutma erinevuste olemasoluga leppida.
+
+Selle juures aitavad meil oma tegevust paremini jälgida ja suunata ühiselt kokkulepitud suhtlusreeglid.
+
 <details open markdown="block">
   <summary>
     Sisukord
@@ -14,9 +18,7 @@ layout: default
 {:toc}
 </details>
 
-__[Est.social](https://est.social) on üldotstarbeline kogukondliku sotsiaalmeedia server eelkõige eestikeelsele kasutajale. Siin on esindatud läbilõige meie ühiskonnast. Omavaheliste erinevuste ja neid väljendavate arutelude mahutamiseks ühte serverisse peame suutma erinevuste olemasoluga leppida.__
-
-Enamasti piisab selleks elementaarsest viisakusest ja lugupidamisest, mida tasub endale alati meenutada. Erimeelsuste lahendamiseks pole sageli vaja muud, kui püüda teise poole seisukoht päriselt ära kuulata. Seejuures ei pea mõistmine tähendama nõustumist ja tasub arvestada, et mõned vaidlused jäävadki lahenduseta.
+Enamasti piisab omavahelise suhtlemise korraldamiseks elementaarsest viisakusest ja lugupidamisest, mida tasub endale alati meenutada. Erimeelsuste lahendamiseks pole sageli vaja muud, kui püüda teise poole seisukoht päriselt ära kuulata. Seejuures ei pea mõistmine tähendama nõustumist ja tasub arvestada, et mõned vaidlused jäävadki lahenduseta.
 
 Serveri haldajad ja moderaatorid on leppinud kokku esialgsed reeglid, mis peavad aitama meil omavahelise suhtluse keerdkäikudes paremini orienteeruda. Reeglid ei väljenda tõde, vaid on praktiline abivahend selleks, et igaüks meist võiks tunda end siin turvaliselt ega peaks kartma halvakspanu väljendatud mõtete pärast.
 
@@ -24,9 +26,9 @@ Kahtluste ja küsimuste korral tasub alati suhelda moderaatoritega. Postituste r
 
 Seejuures ei esinda serveri haldajad ja moderaatorid ühtegi poliitilist seisukohta ega kildkonda. Moderaatorid lähtuvad oma tegevuses eelkõige serveri reeglitest ning hoiduvad andmast hinnanguid postituste sisule.
 
-Lõpuks eeldab kogukondlik modereerimine siiski kõigi kasutajate ühist panust lugupidava ja mõistva suhtluskeskkonna kujundamisse. Kõige parem on, kui lahkarvamused suudetakse lahendada omavahelistes aruteludes ja moderaatorite sekkumine on minimaalne.
+Lõpuks eeldab aga kogukondlik modereerimine siiski kõigi kasutajate ühist panust lugupidava ja mõistva suhtluskeskkonna kujundamisse. Kõige parem on, kui lahkarvamused suudetakse lahendada omavahelistes aruteludes ja moderaatorite sekkumine on minimaalne.
 
-Kuigi moderaatorid püüavad teha omalt poolt kõik, et siinne suhtlus toimuks kõigile vastuvõetavas vormis, pole meie võimuses aidata inimesi isiklike väljakutsetega, mis võivad olla seotud Est.sociali, sotsiaalmeedia või Interneti kasutamisega üldiselt või leida väljenduse siin keskkonnas.
+Kuigi moderaatorid püüavad teha omalt poolt kõik, et siinne suhtlus toimuks kõigile vastuvõetavas vormis, pole meie võimuses aidata inimesi isiklike väljakutsetega, mis võivad olla seotud Est.sociali, sotsiaalmeedia või Interneti kasutamisega üldiselt ja leida väljenduse siin keskkonnas.
 
 Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 
@@ -38,7 +40,7 @@ Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 
 Kui kahtlustad, et inimesel võib olla abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#6-täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
 
-Ent kui käitume üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jt instantside sekkumise järele loodetavasti pigem minimaalne!
+Ent kui peame meeles käituda üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jm instantside sekkumise järele loodetavasti pigem vähene!
 
 ## 1. Ära solva, kiusa, alanda, doksi, jälita, spämmi ega tüüta reklaami või propagandaga!
 
