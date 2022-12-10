@@ -14,7 +14,7 @@ layout: default
 {:toc}
 </details>
 
-[Est.social](https://est.social) on üldotstarbeline kogukondliku sotsiaalmeedia server eelkõige eestikeelsele kasutajale. Siin on esindatud läbilõige meie ühiskonnast. Omavaheliste erinevuste ja neid väljendavate arutelude mahutamiseks ühte serverisse peame suutma erinevuste olemasoluga leppida.
+__[Est.social](https://est.social) on üldotstarbeline kogukondliku sotsiaalmeedia server eelkõige eestikeelsele kasutajale. Siin on esindatud läbilõige meie ühiskonnast. Omavaheliste erinevuste ja neid väljendavate arutelude mahutamiseks ühte serverisse peame suutma erinevuste olemasoluga leppida.__
 
 Enamasti piisab selleks elementaarsest viisakusest ja lugupidamisest, mida tasub endale alati meenutada. Erimeelsuste lahendamiseks pole sageli vaja muud, kui püüda teise poole seisukoht päriselt ära kuulata. Seejuures ei pea mõistmine tähendama nõustumist ja tasub arvestada, et mõned vaidlused jäävadki lahenduseta.
 
@@ -36,9 +36,9 @@ Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 * [Perearsti nõuandeliin](https://www.1220.ee/) telefonil 1220 või +372 6346630 (8-22, nädalavahetusl 24h)
 * [Vaimse tervise esmaabi](https://esmaabi.peaasi.ee/) ja [nõustamine](https://noustamine.peaasi.ee/) (veebis)
 
-Kui kahtlustad, et inimesel võib olla abi seoses nende vastu suunatud õigusrikkumise või muu sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#6-täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
+Kui kahtlustad, et inimesel võib olla abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
 
-Ent kui käitume üksteise suhtes alati laitmatult, siis on vajadus moderaatorit jt instantside sekkumise järele minimaalne!
+Ent kui käitume üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jt instantside sekkumise järele loodetavasti pigem minimaalne!
 
 ## Ära solva, kiusa, alanda, doksi, jälita, spämmi ega tüüta reklaami või propagandaga!
 
