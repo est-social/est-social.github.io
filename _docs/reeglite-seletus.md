@@ -10,7 +10,7 @@ layout: default
     Sisukord
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 
@@ -36,11 +36,11 @@ Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 * [Perearsti nõuandeliin](https://www.1220.ee/) telefonil 1220 või +372 6346630 (8-22, nädalavahetusl 24h)
 * [Vaimse tervise esmaabi](https://esmaabi.peaasi.ee/) ja [nõustamine](https://noustamine.peaasi.ee/) (veebis)
 
-Kui kahtlustad, et inimesel võib olla abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
+Kui kahtlustad, et inimesel võib olla abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#6-täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
 
 Ent kui käitume üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jt instantside sekkumise järele loodetavasti pigem minimaalne!
 
-## Ära solva, kiusa, alanda, doksi, jälita, spämmi ega tüüta reklaami või propagandaga!
+## 1. Ära solva, kiusa, alanda, doksi, jälita, spämmi ega tüüta reklaami või propagandaga!
 
 Est.sociali eesmärk on päris inimeste omavaheline suhtlus. Seda reeglit on kõige lihtsam täita, kui oled inimlik ja arvestad teiste inimestega.
 
@@ -58,7 +58,7 @@ Jälitamine on teise kasutaja postituste ja tegevuse vastu ülemäärase huvi ü
 
 Reklaam ja propaganda on meie küllastunud inforuumi igapäevane osa. Ka siin ei ole keelatud kaubanduslikud teadaanded ega püüdlused eri maailmavaadete edendamiseks, kuid oluline on pidada silmas, et see ei muutuks tüütuks. Kui muutuvad sagedaseks postitused, mille peamine eesmärk on laiale sihtrühmale midagi reklaamida või propageerida, siis tuleks need märgistada sildiga, mis võimaldab kasutajatel filtri abil need oma infovoost eemaldada (nt `#ad` või `#reklaam` ja `#pol`, `#politics` ja `#poliitika`).
 
-## Ära ole rassistlik, seksistlik, homofoobne ega transfoobne!
+## 2. Ära ole rassistlik, seksistlik, homofoobne ega transfoobne!
 
 Siia serverisse pole oodatud kodukootud spekulatsioonid rassismi, seksismi, homofoobia või transfoobia üle, sest need toimuvad alati inimeste arvelt, kes nende all reaalselt kannatavad.
 
@@ -76,7 +76,7 @@ Homofoobia on umbusaldav või vaenulik hoiak homoseksuaalsuse kui sättumuse suh
 
 Transfoobia on umbusaldav või vaenulik hoiak transseksuaalsuse kui soolise enesemääratluse suhtes.
 
-## Ära õigusta vägivaldseid või äärmuslikke ideoloogiaid ega nende kuritegusid!
+## 3. Ära õigusta vägivaldseid või äärmuslikke ideoloogiaid ega nende kuritegusid!
 
 Tüüpilised näited vägivaldsetest ja äärmuslikest ideoloogiatest meie oludes on:
 
@@ -86,7 +86,7 @@ Tüüpilised näited vägivaldsetest ja äärmuslikest ideoloogiatest meie olude
 
 Samamoodi on keelatud õigustada Venemaa Föderatsiooni sõjategevust Ukrainas või selle režiimi poolt korda saadetud inimsusevastaseid kuritegusid.
 
-## Kasuta siin peamiselt eesti keelt, postitamisel määra võimalusel keel!
+## 4. Kasuta siin peamiselt eesti keelt, postitamisel määra võimalusel keel!
 
 See server on loodud selleks, et teha eestikeelsetel kasutajatel võimalikult lihtsaks liituda Mastodoni sotsiaalvõrgustikuga ja katsetada selle mitmekesiseid võimalusi. Kuna serveri haldaja peab tagama ka sisu aktiivse modereerimise, on serveri peamise töökeelena määratletud eesti keel. See ei tähenda, et oleks keelatud postitused muus keeles või suhtlemine muukeelsete serverite kasutajatega, kuid tasub pidada silmas, et kui muukeelne suhtlus muutub peamiseks, siis võib olla targem kasutada selleks mõnda rahvusvaheliste Mastodoni serverit.
 
@@ -96,7 +96,7 @@ Postituste alternatiivsete keeltena on eelistatud Eestis enam levinud ja kasutat
 
 Lihtsalt tundmatus keeles postitamist ei peeta üldjuhul reeglite selle punkti rikkumiseks, kuid moderaatorite tähelepanu võib juhtida postituse keele järjepidevalt määramata jätmisele, kui see ei tulene kasuaja Mastodoni kliendi tehnilistest piirangutest.
 
-## Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
+## 5. Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
 
 Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv sisu "tundliku sisu" hoidatuse taha. Võimalik on peita kogu postitus, st nii tekst kui kaasapandud meediasisu, aga ka ainult meediasisu.
 
@@ -106,7 +106,7 @@ Sisuhoiatused on Mastodoni jt ökosüsteemides välja kujunenud ja hoiatuste mä
 
 Soovi korral saab märkida tundlikuks ka ainult meediasisu, mida võib kasutada vähem häiriva sisu puhul nagu toidupildid, selfid, perepildid vmt, sest meedia puhul ei pakuta võimalust lisada eraldi hoiatav marker.
 
-## Täida Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
+## 6. Täida Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
 
 Est.sociali server asub Eestis ja siin kehtivad Eesti Vabariigi seadused. See tagab serveri kasutajatele maksimaalselt sujuva õigusrikkumistega tegemise, kui siin peaks toimuma midagi Eesti õigusruumis lubamatut. Peame seda meie serveri üheks oluliseks eeliseks võrreldes välismaal paiknevate ja rahvusvaheliste serveritega.
 
@@ -120,7 +120,7 @@ Siiski tuletame meelde, et seaduserikkumistega tegeleb Eestis politsei, uurimisa
 
 Anna kindlasti toimunust teada ka moderaatoritele, et nad saaks võtta ette omampoolseid samme rikkumise dokumenteerimiseks, kuid arvesta, et moderaatorid viivad ellu on kogukonna eneseregulatsiooni ja neilt ei saa oodata kuritegevusega võitlemist viisil nagu seda teevad riiklikud instantsid.
 
-## Ole abivalmis, kannatlik ja toeta uusi kasutajaid.
+## 7. Ole abivalmis, kannatlik ja toeta uusi kasutajaid.
 
 Meie suhtluse iseloomu määrab sageli üldine suhtluskultuur ja see, kuidas suhtlevad omavahel sind ümbritsevad inimesed. Seetõttu anna oma panus toetava ja mõistva suhtluskeskkonna kujundamisse sellega, et oled ise eeskujuks teistele ja aitad inimestel sõbralikult ning kannatlikult leida vastused oma küsimustele, sj pidades silmas seda, et meie kõigi elukogemused on erinevad ja endast erinevate inimestega suhtlemine nõuab sageli kannatlikkust.
 
