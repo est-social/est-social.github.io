@@ -33,7 +33,7 @@ Kuigi moderaatorid püüavad teha omalt poolt kõik, et siinne suhtlus toimuks k
 Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 
 * [Sotsiaalkindlustusameti ohvriabi](https://www.palunabi.ee/) telefonil 116006 või +372 6147393 (24h)
-* [Lasteabi nõustamisliin](https://www.lasteabi.ee/) telefonil 116111 või +372 6004434 (24h)
+* [Lasteabi nõustamisliini](https://www.lasteabi.ee/) telefonil 116111 või +372 6004434 (24h)
 * [Naisteliini](https://naisteliin.ee/) tugitelefon 1492 või [eluliini](https://www.eluliin.ee/) telefon 5515491 (24h) või regionaalsed [naiste tugikeskused](https://sotsiaalkindlustusamet.ee/et/ohvriabi-huvitis/naiste-tugikeskused)
 * [Perearsti nõuandeliin](https://www.1220.ee/) telefonil 1220 või +372 6346630 (8-22, nädalavahetusl 24h)
 * [Vaimse tervise esmaabi](https://esmaabi.peaasi.ee/) ja [nõustamine](https://noustamine.peaasi.ee/) (veebis)
@@ -100,13 +100,13 @@ Lihtsalt tundmatus keeles postitamist ei peeta üldjuhul reeglite selle punkti r
 
 ## 5. Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
 
-Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv sisu "tundliku sisu" hoidatuse taha. Võimalik on peita kogu postitus, st nii tekst kui kaasapandud meediasisu, aga ka ainult meediasisu.
+Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv sisu [tundliku sisu](https://et.wikipedia.org/wiki/Tundlik_sisu) hoidatuse taha. Võimalik on peita kogu postitus, st nii tekst kui kaasapandud meediasisu, aga ka ainult meediasisu.
 
-Kogu postituse peitmiseks saab kasutada `CW` ehk sisuhoiatuse (inglise keeles _content warning_) nuppu postitamise vormi juures. Selle vajutamisel saab sisestada vabateksti vormis hoiatuse, mida kuvatakse postituse asemel. Postitust ennast saab sel juhul näha, vajutades hoiatuse kõrval olevat `Näita veel` nuppu.
+Kogu postituse peitmiseks saab kasutada `CW` ehk sisuhoiatuse (inglise keeles _content warning_) nuppu postitamise vormi juures. Selle vajutamisel saab sisestada vabateksti vormis hoiatuse, mida kuvatakse vaatajatele postituse asemel. Postitust ennast saab näha, kui vajutada hoiatuse kõrval olevat `Näita veel` nuppu.
 
 Sisuhoiatused on Mastodoni jt ökosüsteemides välja kujunenud ja hoiatuste märkimiseks kasutatakse markereid nagu `gore`, `nsfw`, `lewd`, `death`, `violence`, `nazis`, `politics` (aga ka nt `uspol` või `eepol`), `spoilers`, kuid eesti keeles oma selgelt levinud markereid pole. Seega võiks sisuhoiatuse puhul eelkõige silmas pidada, et see oleks selgelt arusaadav, hoiduma peaks sisuhoiatuste kasutamisest muudeks otstarveteks.
 
-Soovi korral saab märkida tundlikuks ka ainult meediasisu, mida võib kasutada vähem häiriva sisu puhul nagu toidupildid, selfid, perepildid vmt, sest meedia puhul ei pakuta võimalust lisada eraldi hoiatav marker.
+Soovi korral saab märkida tundlikuks ka ainult meediasisu, mida võib kasutada vähem häiriva sisu puhul nagu toidupildid, selfid, perepildid vmt, sest meedia puhul ei pakuta Mastodoni praeguses veebiversioonis võimalust lisada eraldi hoiatav marker. Kui kasutad mõnda äppi, kus on võimalik lisada ka meediale hoiatav marker, siis võib julgelt seda võimalust kasutada.
 
 ## 6. Täida Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
 
@@ -116,7 +116,7 @@ Julgustame märku andma kõigest, mis võiks olla seadustega vastuolus. Reeglis 
 
 Siiski tuletame meelde, et seaduserikkumistega tegeleb Eestis politsei, uurimisasutused ja lõppeks kohtud. Kui märkad siin seadustega vastuolus olevat tegevust, mis vajaks kohest reageerimist, siis pöördu kohe vastavate instantside poole:
 
-* Helista hädaabinumbril 112
+* Helista [häirekeskuse](https://www.112.ee/) hädaabinumbril 112 või [saada SMS](https://www.112.ee/et/juhend/arendused/sms-112)
 * Võta ühendust [veebipolitseiga](https://www.politsei.ee/et/veebipolitseinikud)
 * Pöördu [kaitsepolitseisse](https://kapo.ee/et/content/kontaktid/)
 
