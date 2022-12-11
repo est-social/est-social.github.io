@@ -2,7 +2,7 @@
 
 See on **Eesti Mastodoni** server, mis on mõeldud kõigile, kes soovivad eelkõige suhelda eesti keeles.
 
-Avasime selle serveri, et teha Eesti kasutajatele [Mastodoni kogukondliku sotsiaameediaga](https://et.wikipedia.org/wiki/Mastodon_(suhtlusvõrgustik)) liitumine võimalikult lihtsaks. Erinevalt probleemide käes vaevlevatest kommertsvõrgustikest on Mastodon reklaamivaba, kasutajatel on kontroll oma infovoo üle ja nad pole sunnitud alluma manipulatiivsetele algoritmidele. Siin ei tee otsuseid meie üle kauge välismaa meediahiid, vaid kogukond saab ühiselt arutada ja otsustada, et millised on meie [reeglid ja suhtluspõhimõtted](https://abi.est.social/docs/reeglite-seletus/).
+Avasime selle serveri, et teha Eesti kasutajatele [Mastodoni kogukondliku sotsiaalmeediaga](https://et.wikipedia.org/wiki/Mastodon_(suhtlusvõrgustik)) liitumine võimalikult lihtsaks. Erinevalt probleemide käes vaevlevatest kommertsvõrgustikest on Mastodon reklaamivaba, kasutajatel on kontroll oma infovoo üle ja nad pole sunnitud alluma manipulatiivsetele algoritmidele. Siin ei tee otsuseid meie üle kauge välismaa meediahiid, vaid kogukond saab ühiselt arutada ja otsustada, et millised on meie [reeglid ja suhtluspõhimõtted](https://abi.est.social/docs/reeglite-seletus/).
 
 Tutvu enne liitumist praeguste reeglitega ja miks mitte piiluda ka viimaseid [avalikke postitusi](https://est.social/public/local). Serveri statistikat ja oma profiili avalikustanud liikmeid võid sirvida [näiteks siit](https://palat.ee/mastoboard/).
 
