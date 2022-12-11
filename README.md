@@ -1,4 +1,4 @@
-# est.social juhendid ja uudised
+# est.social kogukonnatoe materjalid
 
 * [Juhendid](_docs)
 * [Ettepanekud](https://github.com/est-social/est-social.github.io/issues)
