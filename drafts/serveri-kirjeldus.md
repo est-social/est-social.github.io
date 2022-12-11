@@ -20,4 +20,4 @@ Moderaatorid: [Diana Poudel](https://est.social/@diana), [Märt Põder](https://
 
 Projekti toetab vajaliku riistvara ja tugiteenustega **Zone.ee**.
 
-Päisepilt CC BY [Diana Poudel](https://est.social/@diana), londline CC BY [Thomas Quine](https://www.flickr.com/photos/quinet/44598416660), taust CC BY-SA [Mmwikiest](https://commons.wikimedia.org/wiki/File:Estonian_flag_winter_forest.jpg).
+Päisepilt CC BY [Diana Poudel](https://github.com/est-social/est-social.github.io/blob/main/images/header_blank.jpeg), londline CC BY [Thomas Quine](https://www.flickr.com/photos/quinet/44598416660), taust CC BY-SA [Mmwikiest](https://commons.wikimedia.org/wiki/File:Estonian_flag_winter_forest.jpg).
