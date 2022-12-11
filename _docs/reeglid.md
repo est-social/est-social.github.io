@@ -13,7 +13,7 @@ has_toc: false
 3. Ära õigusta vägivaldseid või äärmuslikke ideoloogiaid ega nende kuritegusid!
 4. Kasuta siin peamiselt eesti keelt, postitamisel määra võimalusel keel!
 5. Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
-6. Täida Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
+6. Järgi Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
 7. Ole abivalmis, kannatlik ja toeta uusi kasutajaid!
 
 _Avaldatud: 29. november 2022_

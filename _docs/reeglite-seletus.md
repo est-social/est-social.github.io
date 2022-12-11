@@ -22,7 +22,7 @@ Enamasti piisab omavahelise suhtlemise korraldamiseks elementaarsest viisakusest
 
 Serveri haldajad ja moderaatorid on leppinud kokku esialgsed reeglid, mis peavad aitama meil omavahelise suhtluse keerdkäikudes paremini orienteeruda. Reeglid ei väljenda tõde, vaid on praktiline abivahend selleks, et igaüks meist võiks tunda end siin turvaliselt ega peaks kartma halvakspanu väljendatud mõtete pärast.
 
-Kahtluste ja küsimuste korral tasub alati suhelda moderaatoritega. Postituste raporteerimine ei ole pealekaebamine, vaid seda võib teha ka enesekontrolliks. Raporteerimine on tulemuslik, kui seda tehes tuua ära kõik küsimusi tekitavad postitused ja osutada võimalikult täpselt, mis nende juures häiris. Kui postitus võib rikkuda mõnda serveri reeglit, tuleks kindlasti sellelele reeglile osutada. Moderaatoritel aitab see teha otsuseid, paremini mõista eri kasutajate vajadusi ning kujundada keskkonda, kus saame kõik end hästi tunda.
+Kahtluste ja küsimuste korral tasub alati suhelda moderaatoritega. Postituste raporteerimine ei ole pealekaebamine, vaid seda võib teha ka enesekontrolliks. Raporteerimine on tulemuslik, kui seda tehes tuua ära kõik küsimusi tekitavad postitused ja osutada võimalikult täpselt, mis nende juures häiris. Kui postitus võib rikkuda mõnda serveri reeglit, tuleks kindlasti sellele reeglile osutada. Moderaatoritel aitab see teha otsuseid, paremini mõista eri kasutajate vajadusi ning kujundada keskkonda, kus saame kõik end hästi tunda.
 
 Seejuures ei esinda serveri haldajad ja moderaatorid ühtegi poliitilist seisukohta ega kildkonda. Moderaatorid lähtuvad oma tegevuses eelkõige serveri reeglitest ning hoiduvad andmast hinnanguid postituste sisule.
 
@@ -32,13 +32,11 @@ Kuigi moderaatorid püüavad teha omalt poolt kõik, et siinne suhtlus toimuks k
 
 Kui märkad siin kedagi, kes võiks vajada abi, siis soovitame pöörduda:
 
-* [Sotsiaalkindlustusameti ohvriabi](https://www.palunabi.ee/) telefonil 116006 või +372 6147393 (24h)
-* [Lasteabi nõustamisliini](https://www.lasteabi.ee/) telefonil 116111 või +372 6004434 (24h)
-* [Naisteliini](https://naisteliin.ee/) tugitelefon 1492 või [eluliini](https://www.eluliin.ee/) telefon 5515491 (24h) või regionaalsed [naiste tugikeskused](https://sotsiaalkindlustusamet.ee/et/ohvriabi-huvitis/naiste-tugikeskused)
-* [Perearsti nõuandeliin](https://www.1220.ee/) telefonil 1220 või +372 6346630 (8-22, nädalavahetusl 24h)
+* [Ohvriabi](https://www.palunabi.ee/) kriisitelefonil 116006 või +372 6147393 (24h)
+* [Naisteliini](https://naisteliin.ee/) tugitelefon 1492 või [eluliini](https://www.eluliin.ee/) telefon 5515491 (24h)
 * [Vaimse tervise esmaabi](https://esmaabi.peaasi.ee/) ja [nõustamine](https://noustamine.peaasi.ee/) (veebis)
 
-Kui kahtlustad, et inimesel võib olla vaja abi seoses tema vastu suunatud õigusrikkumise vm sihipärase tegevusega, siis [vaata altpoolt meie soovitusi](#6-täida-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
+Kui kahtlustad, et on vaja viivitamatut sekkumist või abi seoses õigusrikkumisega, siis [vaata altpoolt meie soovitusi](#6-järgi-eesti-seadusi-keelatud-on-nt-loomevargus-ähvardused-vaenu-õhutamine-pettused-väära-või-kahjustava-info-teadlik-levitamine-jpm).
 
 Ent kui peame alati meeles käituda üksteise suhtes alati laitmatult, siis on vajadus moderaatorite jm väliste instantside sekkumise järele loodetavasti pigem vähene!
 
@@ -82,7 +80,7 @@ Teoreetilised arutelud nende keeruliste ühiskondlike nähtuste üle ei ole keel
 
 Tüüpilised näited vägivaldsetest ja äärmuslikest ideoloogiatest meie oludes on:
 
-* Natsionaalsotsialistlik Saksamaa koos natsismi kui selle režiimiga laias tähenduses seotud ideoloogia ning selle egiidi all korda saadetud inimsusevastaste kuridegudega, iseäranis holokaustiga;
+* Natsionaalsotsialistlik Saksamaa koos natsismi kui selle režiimiga laias tähenduses seotud ideoloogia ning selle egiidi all korda saadetud inimsusevastaste kuritegudega, iseäranis holokaustiga;
 
 * Nõukogude Liit koos selle aluseks olnud leninistlik-stalinistliku ideoloogia, sellest lähtuva režiimi ja selle inimsusevastaste kuritegudega, iseäranis küüditamiste jt massirepressioonidega.
 
@@ -100,7 +98,7 @@ Lihtsalt tundmatus keeles postitamist ei peeta üldjuhul reeglite selle punkti r
 
 ## 5. Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
 
-Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv sisu [tundliku sisu](https://et.wikipedia.org/wiki/Tundlik_sisu) hoidatuse taha. Võimalik on peita kogu postitus, st nii tekst kui kaasapandud meediasisu, aga ka ainult meediasisu.
+Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv sisu [tundliku sisu](https://et.wikipedia.org/wiki/Tundlik_sisu) hoiatuse taha. Võimalik on peita kogu postitus, st nii tekst kui kaasapandud meediasisu, aga ka ainult meediasisu.
 
 Kogu postituse peitmiseks saab kasutada `CW` ehk sisuhoiatuse (inglise keeles _content warning_) nuppu postitamise vormi juures. Selle vajutamisel saab sisestada vabateksti vormis hoiatuse, mida kuvatakse vaatajatele postituse asemel. Postitust ennast saab näha, kui vajutada hoiatuse kõrval olevat `Näita veel` nuppu.
 
@@ -108,7 +106,7 @@ Sisuhoiatused on Mastodoni jt ökosüsteemides välja kujunenud ja hoiatuste mä
 
 Soovi korral saab märkida tundlikuks ka ainult meediasisu, mida võib kasutada vähem häiriva sisu puhul nagu toidupildid, selfid, perepildid vmt, sest meedia puhul ei pakuta Mastodoni praeguses veebiversioonis võimalust lisada eraldi hoiatav marker. Kui kasutad mõnda äppi, kus on võimalik lisada ka meediale hoiatav marker, siis võib julgelt seda võimalust kasutada.
 
-## 6. Täida Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
+## 6. Järgi Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
 
 Est.sociali server asub Eestis ja siin kehtivad Eesti Vabariigi seadused. See tagab serveri kasutajatele maksimaalselt sujuva õigusrikkumistega tegemise, kui siin peaks toimuma midagi Eesti õigusruumis lubamatut. Peame seda meie serveri üheks oluliseks eeliseks võrreldes välismaal paiknevate ja rahvusvaheliste serveritega.
 
@@ -118,9 +116,8 @@ Siiski tuletame meelde, et seaduserikkumistega tegeleb Eestis politsei, uurimisa
 
 * Helista [häirekeskuse](https://www.112.ee/) hädaabinumbril 112 või [saada SMS](https://www.112.ee/et/juhend/arendused/sms-112)
 * Võta ühendust [veebipolitseiga](https://www.politsei.ee/et/veebipolitseinikud)
-* Pöördu [kaitsepolitseisse](https://kapo.ee/et/content/kontaktid/)
 
-Anna kindlasti toimunust teada ka moderaatoritele, et nad saaks võtta ette omampoolseid samme rikkumise dokumenteerimiseks, kuid arvesta, et moderaatorid viivad ellu on kogukonna eneseregulatsiooni ja neilt ei saa oodata kuritegevusega võitlemist viisil nagu seda teevad riiklikud instantsid.
+Anna kindlasti toimunust teada ka moderaatoritele, et nad saaks võtta ette omapoolseid samme rikkumise dokumenteerimiseks, kuid arvesta, et moderaatorid teostavad ikkagi ainult kogukonna eneseregulatsiooni ja neilt ei saa oodata kuritegevusega võitlemist viisil nagu seda teevad riiklikud instantsid.
 
 ## 7. Ole abivalmis, kannatlik ja toeta uusi kasutajaid.
 
