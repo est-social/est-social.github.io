@@ -52,7 +52,7 @@ Neid tegevusi ei ole võimalik ammendavalt defineerida, kuid baaskriteeriumiks h
 
 ### Mõned selgitused
 
-Doksimine on isikuandmete ilma loata kogumine ja avalikustamine sooviga seda isikut häirida või kahjustada, halvemal juhul kaasneb sellega ka üleskutse isiku vastu midagi ette võtta. Selline tegevus on siin keelatud, mh on keelatud pseudonüümi taga peituva isiku identiteedi paljastamine, kui ta pole seda ise oma profiilis või muul selgelt viisil avaldanud.
+Doksimine on isikuandmete ilma loata kogumine ja avalikustamine sooviga seda isikut häirida või kahjustada, halvemal juhul kaasneb sellega ka üleskutse isiku vastu midagi ette võtta. Selline tegevus on siin keelatud, mh on keelatud pseudonüümi taga peituva isiku identiteedi paljastamine, kui ta pole seda ise oma profiilis või muul selgel viisil avaldanud.
 
 Jälitamine on teise kasutaja postituste ja tegevuse vastu ülemäärase huvi üles näitamine, enamasti püsivalt kriitiliste vm viisil ühelaadsete ja silmatorkavate reaktsioonide näol, eriti kui üks pool on andnud märku, et ta ei soovi sellist tähelepanu. Tüüpiliselt leiab jälitamine aset ideoloogiliste oponentide puhul, kui püütakse neil sabas käies näidata, et nad kas eksivad, on moraalselt ebajärjekindlad vm muul viisil laiduväärsed. Vahel on selline jälitamine segatud imetluse või kiindumusega.
 
@@ -82,19 +82,19 @@ Tüüpilised näited vägivaldsetest ja äärmuslikest ideoloogiatest meie olude
 
 * Natsionaalsotsialistlik Saksamaa koos natsismi kui selle režiimiga laias tähenduses seotud ideoloogia ning selle egiidi all korda saadetud inimsusevastaste kuritegudega, iseäranis holokaustiga;
 
-* Nõukogude Liit koos selle aluseks olnud leninistlik-stalinistliku ideoloogia, sellest lähtuva režiimi ja selle inimsusevastaste kuritegudega, iseäranis küüditamiste jt massirepressioonidega.
+* Nõukogude Liit koos selle aluseks olnud leninistlik-stalinistliku ideoloogia, sellest lähtunud režiimi ja selle inimsusevastaste kuritegudega, iseäranis küüditamiste jm massirepressioonidega.
 
 Samamoodi on keelatud õigustada Venemaa Föderatsiooni sõjategevust Ukrainas või selle režiimi poolt korda saadetud inimsusevastaseid kuritegusid.
 
 ## 4. Kasuta siin peamiselt eesti keelt, postitamisel määra võimalusel keel!
 
-See server on loodud selleks, et teha eestikeelsetel kasutajatel võimalikult lihtsaks liituda Mastodoni sotsiaalvõrgustikuga ja katsetada selle mitmekesiseid võimalusi. Kuna serveri haldaja peab tagama ka sisu aktiivse modereerimise, on serveri peamise töökeelena määratletud eesti keel. See ei tähenda, et oleks keelatud postitused muus keeles või suhtlemine muukeelsete serverite kasutajatega, kuid tasub pidada silmas, et kui muukeelne suhtlus muutub peamiseks, siis võib olla targem kasutada selleks mõnda rahvusvaheliste Mastodoni serverit.
+See server on loodud selleks, et teha eestikeelsetel kasutajatel võimalikult lihtsaks liituda Mastodoni sotsiaalvõrgustikuga ja katsetada selle mitmekesiseid võimalusi. Kuna serveri haldaja peab tagama sisu aktiivse modereerimise, on serveri peamise töökeelena määratletud eesti keel. See ei tähenda, et oleks keelatud postitused muus keeles või suhtlemine muukeelsete serverite kasutajatega, kuid tasub pidada silmas, et kui muukeelne suhtlus muutub peamiseks, siis võib olla targem kasutada selleks mõnda rahvusvahelist Mastodoni serverit.
 
-Kui postitad Est.sociali serveris, siis määra kindlasti postituse keel ka juhul, kui postitad eesti keeles. Saad määrata postituse vaikimisi keele ka oma kasutaja [muude eelistuste](https://est.social/settings/preferences/other) alt.
+Kui postitad Est.sociali serveris, siis määra postituse keel kindlasti ka juhul, kui postitad eesti keeles. Postituse vaikimisi keele saad määrata ka oma kasutaja [muude eelistuste](https://est.social/settings/preferences/other) alt.
 
-Postituste alternatiivsete keeltena on eelistatud Eestis enam levinud ja kasutatavad keeled nagu inglise, vene jt, mille modereerimine väikses mahus pole kaelamurdev. Kui moderaatorid ei suuda keelebarjääri tõttu tagada raportitele reageerimist, siis võib see tähendada, et kasutajal tuleb kolida mõnda teise serverisse.
+Postituste alternatiivsete keeltena on eelistatud Eestis enam levinud ja kasutatavad keeled nagu inglise, vene jt, mille modereerimine väikeses mahus pole kaelamurdev. Kui moderaatorid ei suuda keelebarjääri tõttu tagada raportitele reageerimist, võib see tähendada, et kasutajal tuleb kolida mõnda teise serverisse.
 
-Lihtsalt tundmatus keeles postitamist ei peeta üldjuhul reeglite selle punkti rikkumiseks, kuid moderaatorite tähelepanu võib juhtida postituse keele järjepidevalt määramata jätmisele, kui see ei tulene kasuaja Mastodoni kliendi tehnilistest piirangutest.
+Lihtsalt tundmatus keeles postitamist ei peeta üldjuhul reeglite rikkumiseks, kuid moderaatorite tähelepanu võib juhtida postituse keele järjepidevalt määramata jätmisele, kui see ei tulene kasutaja Mastodoni kliendi tehnilistest piirangutest.
 
 ## 5. Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
 
@@ -102,28 +102,28 @@ Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv 
 
 Kogu postituse peitmiseks saab kasutada `CW` ehk sisuhoiatuse (inglise keeles _content warning_) nuppu postitamise vormi juures. Selle vajutamisel saab sisestada vabateksti vormis hoiatuse, mida kuvatakse vaatajatele postituse asemel. Postitust ennast saab näha, kui vajutada hoiatuse kõrval olevat `Näita veel` nuppu.
 
-Sisuhoiatused on Mastodoni jt ökosüsteemides välja kujunenud ja hoiatuste märkimiseks kasutatakse markereid nagu `gore`, `nsfw`, `lewd`, `death`, `violence`, `nazis`, `politics` (aga ka nt `uspol` või `eepol`), `spoilers`, kuid eesti keeles oma selgelt levinud markereid pole. Seega võiks sisuhoiatuse puhul eelkõige silmas pidada, et see oleks selgelt arusaadav, hoiduma peaks sisuhoiatuste kasutamisest muudeks otstarveteks.
+Sisuhoiatused on Mastodoni jt ökosüsteemides välja kujunenud ja hoiatuste märkimiseks [kasutatakse markereid](https://github.com/mastodon/joinmastodon/issues/244#issuecomment-1310958474) nagu `gore`, `nsfw`, `lewd`, `death`, `violence`, `nazis`, `politics` (aga ka nt `uspol` või `eepol`), `spoilers`, kuid eesti keeles oma selgelt levinud markereid pole. Seega võiks sisuhoiatuse puhul eelkõige silmas pidada, et see oleks selgelt arusaadav, hoiduma peaks sisuhoiatuste kasutamisest muudeks otstarveteks.
 
-Soovi korral saab märkida tundlikuks ka ainult meediasisu, mida võib kasutada vähem häiriva sisu puhul nagu toidupildid, selfid, perepildid vmt, sest meedia puhul ei pakuta Mastodoni praeguses veebiversioonis võimalust lisada eraldi hoiatav marker. Kui kasutad mõnda äppi, kus on võimalik lisada ka meediale hoiatav marker, siis võib julgelt seda võimalust kasutada.
+Soovi korral saab märkida tundlikuks ka ainult meediasisu, mida võib kasutada vähem häiriva sisu puhul nagu toidupildid, selfid, perepildid vmt, sest meedia puhul ei pakuta Mastodoni praeguses veebiversioonis võimalust lisada eraldi hoiatav marker. Kui kasutad mõnda äppi, kus on võimalik lisada ka meediale hoiatav marker, siis võid julgelt seda võimalust kasutada.
 
 ## 6. Järgi Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
 
 Est.sociali server asub Eestis ja siin kehtivad Eesti Vabariigi seadused. See tagab serveri kasutajatele maksimaalselt sujuva õigusrikkumistega tegemise, kui siin peaks toimuma midagi Eesti õigusruumis lubamatut. Peame seda meie serveri üheks oluliseks eeliseks võrreldes välismaal paiknevate ja rahvusvaheliste serveritega.
 
-Julgustame märku andma kõigest, mis võiks olla seadustega vastuolus. Reeglis toodud nimekiri pole ammendav, kuid toob näitekd sagedasematest õigusrikkumistest, mida tuleb ette veebiportaalides, foorumites ja sotsiaalmeedias. Meie moderaatorid püüavad tagada, et seadusi eirav sisu või tegevused kiiresti eemaldataks ja seaduserikkujad vastutusele võetaks.
+Julgustame märku andma kõigest, mis võiks olla seadustega vastuolus. Toodud nimekiri pole ammendav, kuid toob näiteid sagedasematest õigusrikkumistest, mida tuleb ette veebiportaalides, foorumites ja sotsiaalmeedias. Meie moderaatorid püüavad tagada, et seadusi eirav sisu või tegevused kiiresti eemaldataks ja seaduserikkujad vastutusele võetaks.
 
-Siiski tuletame meelde, et seaduserikkumistega tegeleb Eestis politsei, uurimisasutused ja lõppeks kohtud. Kui märkad siin seadustega vastuolus olevat tegevust, mis vajaks kohest reageerimist, siis pöördu kohe vastavate instantside poole:
+Siiski tuletame meelde, et õigusrikkumistega tegeleb Eestis politsei, uurimisasutused ja lõppeks kohtud. Kui märkad siin seadustega vastuolus olevat tegevust, mis vajaks vahetut reageerimist, siis pöördu kohe vastavate instantside poole:
 
 * Helista [häirekeskuse](https://www.112.ee/) hädaabinumbril 112 või [saada SMS](https://www.112.ee/et/juhend/arendused/sms-112)
 * Võta ühendust [veebipolitseiga](https://www.politsei.ee/et/veebipolitseinikud)
 
-Anna kindlasti toimunust teada ka moderaatoritele, et nad saaks võtta ette omapoolseid samme rikkumise dokumenteerimiseks, kuid arvesta, et moderaatorid teostavad ikkagi ainult kogukonna eneseregulatsiooni ja neilt ei saa oodata kuritegevusega võitlemist viisil nagu seda teevad riiklikud instantsid.
+Anna kindlasti toimunust teada ka moderaatoritele, et nad saaks võtta ette omapoolseid samme rikkumise dokumenteerimiseks. Arvesta seejuures, et moderaatorid teostavad ikkagi ainult kogukonna eneseregulatsiooni ja neilt ei saa oodata kuritegevusega võitlemist viisil nagu seda teevad riiklikud instantsid.
 
 ## 7. Ole abivalmis, kannatlik ja toeta uusi kasutajaid.
 
-Meie suhtluse iseloomu määrab sageli üldine suhtluskultuur ja see, kuidas suhtlevad omavahel sind ümbritsevad inimesed. Seetõttu anna oma panus toetava ja mõistva suhtluskeskkonna kujundamisse sellega, et oled ise eeskujuks teistele ja aitad inimestel sõbralikult ning kannatlikult leida vastused oma küsimustele, sj pidades silmas seda, et meie kõigi elukogemused on erinevad ja endast erinevate inimestega suhtlemine nõuab sageli kannatlikkust.
+Meie suhtluse iseloomu määrab sageli üldine suhtluskultuur ja see, kuidas suhtlevad omavahel sind ümbritsevad inimesed. Seetõttu anna oma panus toetava ja mõistva suhtluskeskkonna kujundamisse sellega, et oled ise eeskujuks teistele ja aitad inimestel sõbralikult ning kannatlikult leida vastused oma küsimustele. Pea silmas, et meie kõigi elukogemused on erinevad ja endast erinevate inimestega suhtlemine nõuab sageli kannatlikkust.
 
-Tahame, et siinne keskkond pakuks tõepoolest eestikeelsele kasutajale kõige lihtsamat viisi liituda Mastodoni võrgustikuga ja proovida järgi selle võimalusi. Selleks paneme kõigile hingele, et suhtuksite eriti toetavalt ja mõistvalt uutesse kasutajatesse ning jätaksite neile ruumi uue keskkonnaga harjumiseks. Kasutage nende juhendamisel abivalmis kaasteelise tooni ja hoiduge võtmast kõiketeadva omaniku rolli, kes räägib uutele tulijatele, kuidas siin asjad on ja olema peavad.
+Tahame, et siinne keskkond pakuks tõepoolest eestikeelsele kasutajale kõige lihtsamat viisi liituda Mastodoni võrgustikuga ja proovida järele selle võimalusi. Selleks paneme kõigile hingele, et suhtuksite eriti toetavalt ja mõistvalt uutesse kasutajatesse ning jätaksite neile ruumi uue keskkonnaga harjumiseks. Kasutage nende juhendamisel abivalmis kaasteelise tooni ja hoiduge võtmast kõiketeadva omaniku rolli, kes räägib uutele tulijatele, kuidas siin asjad on ja olema peavad.
 
 Est.social on osa [ülemaailmsest Mastodoni võrgustikust](https://et.wikipedia.org/wiki/Mastodon_(suhtlusv%C3%B5rgustik)), mille kultuur, modereerimistavad ja juhtimismehhanismid on alles kujunemisel. See võrgustik pole kellegi oma, vaid see kuulub meile kõigile ning on osa födereeritud serverite laiemast võrgustikust ehk [Födiversumist](https://et.wikipedia.org/wiki/F%C3%B6diversum).
 
