@@ -3,7 +3,7 @@
 * [Juhendid](_docs)
 * [Teated](_posts)
 * [Ettepanekud](https://github.com/est-social/est-social.github.io/issues)
-* [Pildid](images)
+* [Meedia](media)
 * [Mustandid](drafts)
 
 Serveri lähtekoodi leiad [siit](https://github.com/est-social/mastodon).
