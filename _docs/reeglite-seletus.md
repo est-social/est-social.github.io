@@ -61,7 +61,7 @@ Reklaam ja propaganda on meie küllastunud inforuumi igapäevane osa. Ka siin ei
 
 ## 2. Ära ole rassistlik, seksistlik, homofoobne ega transfoobne!
 
-Siia serverisse pole oodatud kodukootud spekulatsioonid rassismi, seksismi, homofoobia või transfoobia üle, sest need toimuvad alati inimeste arvelt, kes nende all reaalselt kannatavad.
+Siia serverisse pole oodatud kodukootud spekulatsioonid rassismi, seksismi, homofoobia või transfoobia üle, sest need toimuvad enamasti inimeste arvelt, kes nende all reaalselt kannatavad.
 
 Täiesti keelatud on rassistlike või seksistlike eelarvamuste ja homofoobsete või transfoobsete hoiakute väljendamine konkreetsete isikute suunal, sh eristamata tegelikke, ajaloolisi või kujuteldavaid isikuid.
 
