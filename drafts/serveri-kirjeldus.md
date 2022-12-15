@@ -10,7 +10,7 @@ Liitumiseks tuleb registreeruda ja oodata konto kinnitamist moderaatori poolt. K
 
 Teated ja kasutusjuhised leiad meie [kogukonnatoe lehelt](https://kogukond.est.social/).
 
-_At our community support page you can also find our [server rules in English](https://abi.est.social/docs/rules/)._
+_At our community support page you can also find our [server rules in English](https://kogukond.est.social/docs/rules/)._
 
 ## Est.sociali tiim
 
