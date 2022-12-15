@@ -3,6 +3,7 @@ title: Rules (in English)
 parent: Reeglid
 nav_order: 999
 layout: default
+image: /media/header_textlogo.jpeg
 ---
 
 Together we create a respectful and approving community, where everybody can communicate freely despite their differences:

@@ -4,6 +4,7 @@ nav_order: 99
 has_children: true
 layout: default
 has_toc: false
+image: /media/header_textlogo.jpeg
 ---
 
 Üheskoos loome lugupidava ja mõistva keskkonna, kus kõik saavad oma erinevustest hoolimata vabalt suhelda:

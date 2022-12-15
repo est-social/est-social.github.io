@@ -1,0 +1,1 @@
+Siin kataloogis olevate meediafailide litsents on üldjuhul CC BY või CC BY-SA. Täpsem info iga faili metaandmetest või juuresolevast infost avaldamise kontekstis.
