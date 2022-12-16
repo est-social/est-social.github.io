@@ -17,4 +17,4 @@ image: /media/header_textlogo.jpeg
 6. Järgi Eesti seadusi! Keelatud on nt loomevargus, ähvardused, vaenu õhutamine, pettused, väära või kahjustava info teadlik levitamine jpm.
 7. Ole abivalmis, kannatlik ja toeta uusi kasutajaid!
 
-_Avaldatud: 29. november 2022_
+_Avaldatud ja [kehtestatud](https://est.social/auth/sign_up): 29. november 2022_
