@@ -1,6 +1,7 @@
 ---
 title: Mida siit leiab?
 layout: default
+image: /media/header_textlogo.jpeg
 ---
 
 Siin on kogukondliku sotsiaalmeedia serveri [Est.sociali](https://est.social) abimaterjalid.
