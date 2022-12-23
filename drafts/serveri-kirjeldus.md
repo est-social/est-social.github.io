@@ -14,10 +14,10 @@ _At our community support page you can also find our [server rules in English](h
 
 ## Est.sociali tiim
 
-Serveri administraatorid: [Henri Vasserman](https://est.social/@henri), [Jaanus Kase](https://est.social/@jaanus) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
+Administraatorid: [Henri Vasserman](https://est.social/@henri), [Jaanus Kase](https://est.social/@jaanus) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
 
 Moderaatorid: [Diana Poudel](https://est.social/@diana), [Tambet Kask](https://est.social/@tambet), [Märt Põder](https://est.social/@tramm), [Sven Vahar](https://est.social/@sven), [Marko Kivimäe](https://est.social/@marko) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
 
-Oleme liitunud [serverikokkuleppega](https://joinmastodon.org/covenant), millest lähtuvalt varundame andmeid igapäevaselt ning tagame alati teenuse kolmekuulise garantiiga. Projekti toetab riistvara ja tugiteenustega [Zone Media](https://www.zone.ee/).
+Oleme liitunud [serverikokkuleppega](https://joinmastodon.org/covenant), millest lähtuvalt varundame andmeid igapäevaselt ning tagame alati teenuse kolmekuulise garantiiga. Projekti toetab riistvara ja tugiteenustega **[Zone Media](https://www.zone.ee/)**.
 
-Päisepilt CC BY [Diana Poudel](https://github.com/est-social/est-social.github.io/blob/main/media/header_blank.jpeg), londline CC BY [Thomas Quine](https://www.flickr.com/photos/quinet/44598416660), taust CC BY-SA [Mmwikiest](https://commons.wikimedia.org/wiki/File:Estonian_flag_winter_forest.jpg).
+_Päisepilt CC BY [Diana Poudel](https://github.com/est-social/est-social.github.io/blob/main/media/header_blank.jpeg), londiline CC BY [Thomas Quine](https://www.flickr.com/photos/quinet/44598416660), taust CC BY-SA [Mmwikiest](https://commons.wikimedia.org/wiki/File:Estonian_flag_winter_forest.jpg)._
