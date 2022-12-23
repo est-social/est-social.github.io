@@ -1,3 +1,5 @@
+_See on avaldamata mustand._
+
 # Modereerimisjuhis
 
 See juhis on mõeldud moderaatorile, aga seda võivad lugeda ka teised huvilised.
@@ -28,4 +30,3 @@ Föderatiivsel teel saabunud postituste kustutamine ehk `Kustuta postitused` too
 * Alati märgime, et mis reeglit rikuti või kuidas otsus langes
 * Poigem ei maini resolutsioonides seotud isikud ega kasutajaid, need on metaandmetes (sest GDPR)
 
-_See on avaldamata mustand._
