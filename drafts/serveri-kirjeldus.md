@@ -16,7 +16,7 @@ _At our community support page you can also find our [server rules in English](h
 
 Serveri administraatorid: [Henri Vasserman](https://est.social/@henri), [Jaanus Kase](https://est.social/@jaanus) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
 
-Moderaatorid: [Diana Poudel](https://est.social/@diana), [Märt Põder](https://est.social/@tramm), [Tambet Kask](https://est.social/@tambet), [Sven Vahar](https://est.social/@sven), [Marko Kivimäe](https://est.social/@marko) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
+Moderaatorid: [Diana Poudel](https://est.social/@diana), [Tambet Kask](https://est.social/@tambet), [Märt Põder](https://est.social/@tramm), [Sven Vahar](https://est.social/@sven), [Marko Kivimäe](https://est.social/@marko) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
 
 Oleme liitunud [Mastodoni serverite kokkuleppega](https://joinmastodon.org/covenant), millest lähtuvalt varundame andmeid igapäevaselt ning tagame teenuse kolmekuulise garantiiga. Projekti toetab riistvara ja tugiteenustega [Zone Media OÜ](https://www.zone.ee/).
 
