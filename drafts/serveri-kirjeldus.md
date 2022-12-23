@@ -18,6 +18,6 @@ Serveri administraatorid: [Henri Vasserman](https://est.social/@henri), [Jaanus 
 
 Moderaatorid: [Diana Poudel](https://est.social/@diana), [Märt Põder](https://est.social/@tramm), [Tambet Kask](https://est.social/@tambet), [Sven Vahar](https://est.social/@sven), [Marko Kivimäe](https://est.social/@marko) ja [Joosep-Georg Järvemaa](https://est.social/@jgj).
 
-Oleme liitunud [Mastodoni serverite kokkuleppega], millest lähtuvalt varundame andmeid igapäevaselt ning tagame teenuse kolmekuulise garantiiga. Projekti toetab riistvara ja tugiteenustega [Zone Media OÜ](https://www.zone.ee/).
+Oleme liitunud [Mastodoni serverite kokkuleppega](https://joinmastodon.org/covenant), millest lähtuvalt varundame andmeid igapäevaselt ning tagame teenuse kolmekuulise garantiiga. Projekti toetab riistvara ja tugiteenustega [Zone Media OÜ](https://www.zone.ee/).
 
 Päisepilt CC BY [Diana Poudel](https://github.com/est-social/est-social.github.io/blob/main/media/header_blank.jpeg), londline CC BY [Thomas Quine](https://www.flickr.com/photos/quinet/44598416660), taust CC BY-SA [Mmwikiest](https://commons.wikimedia.org/wiki/File:Estonian_flag_winter_forest.jpg).
