@@ -42,3 +42,5 @@ Peame tagama, et kasutajate isikuandmed ei läheks rändama, mis tähendab, et m
 Moderaatorid arutavad otsuseid eraldi kinnises kanalis, milles räägitu ei jõua sealt kunagi välja ja mille eelnevat sisu moderaatorite lisandudes uued moderaatorid ei näe.
 
 # Vaidlustamine
+
+Vaidlustamise korral võiks anda hinnangu kas algsest otsuse vormistanud moderaatorist erinev moderaator või arutada seda moderaatorite vestluses.
