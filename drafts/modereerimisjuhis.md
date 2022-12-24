@@ -4,6 +4,14 @@ _See on avaldamata mustand._
 
 Üldpõhimõtted on kirjas [reeglite seletuse üldosas](https://kogukond.est.social/docs/reeglite-seletus/) ja peamine on, et me ei hinda mitte postituste sisu, vaid suhtluse vormi, st suhtlusaktide iseloomu ja oletatavat motivatsiooni. Sisu puutub meisse ainult niipalju, et hinnata, kas pole tegumist reeglite rikkumisega.
 
+* Meediasisu
+
+Me ei jõua läbi vaadata kõiki jagatud videoid, linke, pildigaleriisid jmt. Seega välist meediasisu hindame peamiselt raportite korral. Otse meile üles laadidtud meediasisu puhul võiks olla ilmselt aktiivsem roll. Kui meediasisu ei riku reegleid, aga võib olla häiriv, siis saab paluda see panna `CW` ehk sisuhoiatuse taha peitu. Teoreetiliselt on kujutatav olukord, kus sisu ei riku reegleid, kuid siiski häirib kedagi, aga kasutaja mingil põhjusel ei taha seda sisuhoiatuse taha peita. Lisaks sisuhoiatustele saab paluda kasutajal määrata postituse nähtavus nii, et postitus ei ilmu avalikul ajajoonel. Kuna profiilipilte ja taustu ei saa sisuhoiatusega varustada, siis sealt me palume häiriva sisu eemaldada ka juhul, kui see ei riku reegleid, aga eirab mingeid üldisi viisakusnorme, sest kasutajate profiilid on alati sirvitavad teistest serveritest ja on potentsiaalselt avalikud, sh luues serveri kuvandit.
+
+* Tekstisisu
+
+...
+
 # Mida me modereerimisel arvestame
 
 Siin on kirjas, et mismoodi me hindame eri aspekte raporteeritud postituste ja kasutajate juures nagu:
