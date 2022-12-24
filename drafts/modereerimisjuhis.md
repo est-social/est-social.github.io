@@ -16,6 +16,10 @@ Siin on kirjas, et mismoodi me hindame eri aspekte raporteeritud postituste ja k
 
 # Mis tehnilised võimalused moderaatoril on
 
+* Küsimuste küsimine ja märkuste tegemine
+
+Ka märkuse tegemine on tehniline vahend, aga avaliku või otsesuhtluse vormis suuniste andmine on ilmselt kõige esmasem viis probleeme lahendada. Kõige madalama taseme pöördumine on siis, kui moderaator uurib kasutaja eesmärki kohta teatud postituste tegemisel või käitumise juures. Selles faasis on moderaator samal tasemel iga teise kasutajaga ning võiks olla heaks tooniks esialgu ka see nii hoida, st rääkida kui kasutaja kasutajaga ja mitte kui võimuesindaja alluvaga. Ka saab moderaator selles rollis avaldada oma informeeritud arvamust mingite postituste laadi vmt kohta, anda oma esialgseid isiklikke soovitusi. Selle raames ei peagi tingimata viitama reeglitele, vaid pigem võiks püüda selgelt välja ütelda, mis on küsimuse all ja miks see väärib arutelu (nt häirib mõnda konkreetset kasutajarühma, võib olla seaduse piiril, vaidlus on läinud silmnähtavalt tuliseks vmt). Kui tegu pole reeglite rikkumisega, siis võiks moderaator alati eelistada sekkumist n-ö kasutaja rollis.
+
 * Postituste kustutamine
 
 Föderatiivsel teel saabunud postituste kustutamine ehk `Kustuta postitused` toob kaasa selle, et postitus kustub meie isendis ja seda ei saa enam föderatiivse lingiga avada. Sisuliselt on see konkreetse postituse pöördumatu kustutamine ehk kustutamne ja blokkimine nii, et selle edasine tee meie serverisse on suletud. Seega on see potentsiaalselt märgatav ka teistele kasutajatele peale selle, kes postitusest rapoteeris. Meie oma postituse kustutamine toob kaasa selle, et see kustub eeldatavasti mõningase viivitusega ka muudest isenditest. Postituste kustutamine on selles tähenduses leebe meede, et ei takista väga kasutajate muid tegevusi, aga annab märku, et teatud postitused pole meie isendis oodatud. Seda ei peaks siiski kergelt kasutama, vaid hoidma selle puhkudeks, kus postitused tõepoolest rikuvad meie isendi reegleid või kus postitusega kaasneb mõni vahetu, nt tehniline, õiguslik vmt risk meie isendile.
