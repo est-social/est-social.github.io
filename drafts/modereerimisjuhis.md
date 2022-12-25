@@ -36,10 +36,9 @@ Föderatiivsel teel saabunud postituste kustutamine ehk `Kustuta postitused` too
 * Külmutamine -- kasutaja ei saa midagi teha, avaneb seadistuste leht
 * Piiramine/vaigistamine -- kasutaja on näha ainult jälgijatele
 * Kasutaja peatamine -> kustutamine -- kasutaja kustutatakse, kui 30 päeva jooksul kustutamist ei tühistata
-* Kasutaja blokeerimine
 * Serveri meedia blokeerimine
 * Serveri piiramine/vaigistamine -> kõik kasutajad serverist piiratakse (vt ülal)
-* Serveri blokeerimine -> sserverilt tulev sisu peale kasutajanimede on kättesaamatu
+* Serveri blokeerimine -> serverilt tulev sisu peale kasutajanimede on kättesaamatu
 
 # Kuidas raportid liiguvad, kuidas kirjutada resolutsioone
 
