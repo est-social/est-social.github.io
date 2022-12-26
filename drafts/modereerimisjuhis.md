@@ -8,6 +8,8 @@ _See on avaldamata mustand._
 
 Me ei jõua läbi vaadata kõiki jagatud videoid, linke, pildigaleriisid jmt. Seega välist meediasisu hindame peamiselt raportite korral. Otse meile üles laadidtud meediasisu puhul võiks olla ilmselt aktiivsem roll. Kui meediasisu ei riku reegleid, aga võib olla häiriv, siis saab paluda see panna `CW` ehk sisuhoiatuse taha peitu. Teoreetiliselt on kujutatav olukord, kus sisu ei riku reegleid, kuid siiski häirib kedagi, aga kasutaja mingil põhjusel ei taha seda sisuhoiatuse taha peita. Lisaks sisuhoiatustele saab paluda kasutajal määrata postituse nähtavus nii, et postitus ei ilmu avalikul ajajoonel. Kuna profiilipilte ja taustu ei saa sisuhoiatusega varustada, siis sealt me palume häiriva sisu eemaldada ka juhul, kui see ei riku reegleid, aga eirab mingeid üldisi viisakusnorme, sest kasutajate profiilid on alati sirvitavad teistest serveritest ja on potentsiaalselt avalikud, sh luues serveri kuvandit.
 
+Võiksime püüda hoolikamalt jälgida, et eesti autorite loomingut ei kasutataks endapromoks vmt kasusaamise eesmärgil -- nt ilmselgelt professionaalseid fotosid lihtsalt viitega autorile, aga autorilt tegelikult luba küsimata. Me ei saa teha ise kogu materjalile autoriõiguse kontrolli ja meie reeglites on niikuinii keelatud loomevargus, kuid peame operatiivselt reageerima teavitustele ja tegema omalt poolt parima pingutuse autoriõigust rikkuva sisu vältimiseks, et säilitada oma staatus autoriõigusest kinnipidava keskkonnana.
+
 * Tekstisisu
 
 ...
