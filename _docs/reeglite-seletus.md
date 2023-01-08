@@ -97,6 +97,8 @@ Postituste alternatiivsete keeltena on eelistatud Eestis enam levinud ja kasutat
 
 Lihtsalt tundmatus keeles postitamist ei peeta üldjuhul reeglite rikkumiseks, kuid moderaatorite tähelepanu võib juhtida postituse keele järjepidevalt määramata jätmisele, kui see ei tulene kasutaja Mastodoni kliendi tehnilistest piirangutest.
 
+Kui moderaator näeb, et uue liituja seos eestikeelse kogukonnaga on väga lõtv (näiteks e-maili aadress, kasutajaliidese keel, valitud nimi ja kasutajanimi ükski pole eestikeelne), siis on moderaatoril õigus kasutaja lukustada ja saata arupäriv e-mail. Kui 72h jooksul pole vastust tulnud, siis on moderaatoril õigus konto kustutada.
+
 ## 5. Peida `CW` nupu taha vägivald, traumad, seksualiseeriv jm tugevalt häirida võiv sisu!
 
 Mastodoni võrgustikus on tavaks peita teisi kasutajaid tugevalt häirida võiv sisu [tundliku sisu](https://et.wikipedia.org/wiki/Tundlik_sisu) hoiatuse taha. Võimalik on peita kogu postitus, st nii tekst kui kaasapandud meediasisu, aga ka ainult meediasisu.
