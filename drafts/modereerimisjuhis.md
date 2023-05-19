@@ -10,9 +10,6 @@ Me ei jõua läbi vaadata kõiki jagatud videoid, linke, pildigaleriisid jmt. Se
 
 Võiksime püüda hoolikamalt jälgida, et eesti autorite loomingut ei kasutataks endapromoks vmt kasusaamise eesmärgil -- nt ilmselgelt professionaalseid fotosid lihtsalt viitega autorile, aga autorilt tegelikult luba küsimata. Me ei saa teha ise kogu materjalile autoriõiguse kontrolli ja meie reeglites on niikuinii keelatud loomevargus, kuid peame operatiivselt reageerima teavitustele ja tegema omalt poolt parima pingutuse autoriõigust rikkuva sisu vältimiseks, et säilitada oma staatus autoriõigusest kinnipidava keskkonnana.
 
-* Tekstisisu
-
-...
 
 # Mida me modereerimisel arvestame
 
@@ -52,7 +49,7 @@ Kui otsustame midagi ette võtta, siis mrägime võimalikult täpselt, missugust
 
 Peame tagama, et kasutajate isikuandmed ei läheks rändama, mis tähendab, et me püüame isikuandmeid ka talletada nii vähe kui võimalik. Enamiku asju saab menetleda ära ilma selgitustes kasutaja isikuandmeid kirja panemata, vaid ainult selgitades otsuse põhjuseid jm asjaolusid. See teeb meie elu lihtsamaks, sest GDPRi järgi on kasutajatel õigus oma isikuandmeid meilt nõuda ja me peame need kustutama, kui neid enam ei kasuta. Seega on targem mitte neid tekitada. See puudutab ka moderaatorite nimesid ja nende isikuandmeid, mida pole vaja tekstidesse lisada, sest otsuse tegemise ajal me teame, kuidas otsus langes ja pärast piisab moderaatorite ühise otsuse sisust.
 
-Moderaatorid arutavad otsuseid eraldi kinnises kanalis, milles räägitu ei jõua sealt kunagi välja ja mille eelnevat sisu moderaatorite lisandudes uued moderaatorid ei näe.
+Moderaatorid arutavad otsuseid eraldi kinnises kanalis, milles räägitu ei jõua sealt kunagi välja.
 
 # Vaidlustamine
 
